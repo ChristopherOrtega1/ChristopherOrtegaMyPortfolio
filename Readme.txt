@@ -1,6 +1,6 @@
-Thanks for downloading this template!
-
-Template Name: Arsha
+Christopher Miguel Ortega-Garcia
+The Template I used for this webpage, Arsha, can be found in....
 Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+The original Author of the template is BootstrapMade.com
+
+The License can be found at https://bootstrapmade.com/license/
